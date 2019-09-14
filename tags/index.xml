@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on IThink Blog</title>
-    <link>https://ithink.github.io/tags/</link>
+    <link>https://programrubber.github.io/tags/</link>
     <description>Recent content in Tags on IThink Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
     <lastBuildDate>Sat, 14 Sep 2019 11:25:04 +0900</lastBuildDate>
     
-	<atom:link href="https://ithink.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://programrubber.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Blog</title>
-      <link>https://ithink.github.io/tags/blog/</link>
+      <link>https://programrubber.github.io/tags/blog/</link>
       <pubDate>Sat, 14 Sep 2019 11:25:04 +0900</pubDate>
       
-      <guid>https://ithink.github.io/tags/blog/</guid>
+      <guid>https://programrubber.github.io/tags/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>https://ithink.github.io/tags/hugo/</link>
+      <link>https://programrubber.github.io/tags/hugo/</link>
       <pubDate>Sat, 14 Sep 2019 11:25:04 +0900</pubDate>
       
-      <guid>https://ithink.github.io/tags/hugo/</guid>
+      <guid>https://programrubber.github.io/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SWG</title>
-      <link>https://ithink.github.io/tags/swg/</link>
+      <link>https://programrubber.github.io/tags/swg/</link>
       <pubDate>Sat, 14 Sep 2019 11:25:04 +0900</pubDate>
       
-      <guid>https://ithink.github.io/tags/swg/</guid>
+      <guid>https://programrubber.github.io/tags/swg/</guid>
       <description></description>
     </item>
     
